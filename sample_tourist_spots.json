@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Pashupatinath",
+        "lat": 27.7104,
+        "long": 85.3487,
+        "entry_fee": 1000,
+        "open_time": 4,
+        "close_time": 21,
+        "tags": ["culture", "adventure"],
+        "visit_time": 2.0
+    },
+    {
+        "name": "Swayambhunath",
+        "lat": 27.7149,
+        "long": 85.2904,
+        "entry_fee": 200,
+        "open_time": 5,
+        "close_time": 20,
+        "tags": ["culture", "adventure", "nature"],
+        "visit_time": 2.0
+    },
+    {
+        "name": "Garden of Dreams",
+        "lat": 27.7142,
+        "long": 85.3145,
+        "entry_fee": 400,
+        "open_time": 9,
+        "close_time": 18,
+        "tags": ["nature", "culture"],
+        "visit_time": 1.0
+    },
+    {
+        "name": "Narayanhiti Museum",
+        "lat": 27.7138,
+        "long": 85.3181,
+        "entry_fee": 500,
+        "open_time": 11,
+        "close_time": 16,
+        "tags": ["culture", "history"],
+        "visit_time": 2.5
+    },
+    {
+        "name": "Kathmandu Durbar Sq",
+        "lat": 27.7042,
+        "long": 85.3067,
+        "entry_fee": 1000,
+        "open_time": 0,
+        "close_time": 24,
+        "tags": ["culture", "history"],
+        "visit_time": 2.0
+    }
+]
